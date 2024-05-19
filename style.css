@@ -1,0 +1,34 @@
+body {
+    font-family: sans-serif;
+}
+header{
+ background-color:powderblue;   
+}
+header a {
+    text-decoration: none;
+    margin: 10px;
+    border-radius: 10px;
+    background-color: white;
+    padding: 3px;
+}
+.title {
+color: darkblue;
+background-color: paleturquoise;
+text-align: center;
+font-size: 25px;
+}
+footer p{
+    background-color: limegreen;
+}
+nav{
+    text-align: center;
+    background-color: green;
+}
+nav a{
+    text-decoration: none;
+    color: white;
+    padding: 15px;
+}
+.p1{
+    background-color: lime;
+}
